@@ -1,6 +1,6 @@
 # Webpack libraries
 
-Este es eñ proyecto incial para crear aplicaciones utilizand webpack.
+Este es el proyecto incial para crear aplicaciones utilizando webpack.
 
 ### Notas:
 
